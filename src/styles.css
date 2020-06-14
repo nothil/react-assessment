@@ -1,0 +1,13 @@
+body {
+  font-family: sans-serif;
+  margin:  auto;
+  width: 50%;
+  
+}
+
+.main_box {
+  border: 1px solid #eee;
+  box-shadow: 0 2px 2px #ccc;
+  width: 400px;
+  padding: 20px
+}

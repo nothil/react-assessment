@@ -1,0 +1,35 @@
+{
+  "name": "react-assessment",
+  "version": "1.0.0",
+  "description": "A React technical test for Flexyforce",
+  "main": "webpack.config.js",
+  "scripts": {
+    "start": "webpack-dev-server --open --hot --mode development",
+    "build": "webpack --mode production",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://murrayleroux@bitbucket.org/flexypeople/react-assessment.git"
+  },
+  "keywords": [
+    "React",
+    "Flexyforce",
+    "StarWars"
+  ],
+  "author": "Your Name Here",
+  "license": "MIT",
+  "homepage": "https://bitbucket.org/flexypeople/react-assessment#readme",
+  "dependencies": {
+    "@babel/core": "7.2.0",
+    "@types/react": "16.8.6",
+    "@types/react-dom": "16.8.2",
+    "parcel-bundler": "^1.6.1",
+    "@apollo/react-hooks": "3.1.1",
+    "apollo-boost": "0.4.4",
+    "graphql": "14.5.6",
+    "graphql-tag": "2.10.1",
+    "react": "16.8.3",
+    "react-dom": "16.8.3"
+  }
+}
