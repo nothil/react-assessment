@@ -1,4 +1,3 @@
- 
 import React, { Fragment } from "react";
 import { useQuery } from "@apollo/react-hooks";
 import { gql } from "apollo-boost";
@@ -55,11 +54,8 @@ export default function App() {
   ));
   return (
     <Fragment>
-
-      
       <h1>Star Wars Films</h1>
       {films}
-      
-    </Fragment>
+  </Fragment>
   );
 }

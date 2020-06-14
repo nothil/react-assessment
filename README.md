@@ -2,20 +2,14 @@
 
 ## Star Wars Api
 
-## project setup
-
-* Node
-* webpack
-
-
-
 ## Install
 
-### clone the reposatry and install depeendancies.
+### clone the repository and install dependancies.
 ### commands: 
 
-``git clone ``
-``npm install``
+```git clone (https://github.com/nothil/react-assessment.git)
+   npm install
+```
 
 ## Run the App locally
 
